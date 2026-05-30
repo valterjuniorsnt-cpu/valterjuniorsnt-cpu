@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/28420880/README.md)
-# Santto# Olá! Eu sou Valter De Santana Júnior 👋
+# Olá! Eu sou Valter De Santana Júnior 👋
 
 <p align="center">
   <em>Técnico em Informática para Internet · Dev Web em formação · JavaScript enthusiast</em>
